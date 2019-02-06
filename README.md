@@ -1,3 +1,6 @@
+### POINTS: 1
+### Great comments and was close to working, but some cells would not register clicks.
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
